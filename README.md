@@ -73,4 +73,4 @@ This will transfer the car asset from the store account to john doe account in t
 
 # More
 
-You can find the connectors used to integrate Chain here: [Chain connectors for Bonita](https://github.com/Bonitasoft-Community/bonita-connector-chain)
+If you interested in building your own application with Bonita BPM and Chain, you can find the source code of the connectors here: [Chain connectors for Bonita](https://github.com/Bonitasoft-Community/bonita-connector-chain)
