@@ -1,10 +1,12 @@
-# demo-bonita-chain
+# Demo Bonita integrating Chain
 
-This repo contains the materials to show how to integrate Bonita BPM with Chain.
+This repository contains the materials to show how to integrate Bonita BPM with Chain.
 
 The use case demonstrated in this demo is a car supply chain. 
 
-A recording of the video is available [here](http://www.bonitasoft.com/for-you-to-read/videos/accelerate-blockchain-technology-adoption-bonita-bpm-and-chain-core). 
+This demo has been built using the Community Edition of Bonita BPM. 
+
+A more complex demo that has been built with the Subscription edition of Bonita BPM can be viewed in this [recording] (https://www.bonitasoft.com/for-you-to-read/videos/accelerate-blockchain-technology-adoption-bonita-bpm-and-chain-core-0)
 
 # Requirements
 
