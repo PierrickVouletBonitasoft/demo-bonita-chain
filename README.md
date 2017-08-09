@@ -30,9 +30,9 @@ mvn exec:java -Dexec.mainClass="org.bonitasoft.chain.InitDemoSupplyChain"
 ```
 
 * Start Bonita Studio
-* Import the process (process/CarSupplyChain-1.0.bos)
+* Import the [process](/process/CarSupplyChain-1.0.bos)
 * Open the Portal
-* Import the organization provided (process/Organization_Data.xml)
+* Import the [organization provided](/process/Organization_Data.xml)
 * Associate a User profile to all users. Easy way to achieve that is to map the User profile to the role "member"
 * Run the process
 
