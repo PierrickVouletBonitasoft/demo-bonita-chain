@@ -18,6 +18,10 @@ To run the demo on your machine you will need the following elements:
 
 * Start Chain core and connect to Test Network
 
+* Clone this project on your local machine
+
+* Open a terminal in this repository
+
 * Build the project InitChain
 ```
 cd InitChain
